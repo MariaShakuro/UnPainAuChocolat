@@ -1,14 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unpainauchocolat" alt="unpainauchocolat" /></a> </p>
-
-- 🌱 I’m currently learning **DataBase,Algorithms,Kotlin**
-
-- 📫 How to reach me **msh479859@gmail.com**
+- 🌱 I’m currently learning **DataBase,Algorithms**
+- 📫 How to reach me:  **msh479859@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
